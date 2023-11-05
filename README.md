@@ -4,7 +4,7 @@ Task 2 for internship LGM VIP
 Prodigy Infotech internship - Software Development - Task 01 by; Priyant
 Temperature Converter
 
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
+![Alt text](https://github.com/Pbhacks/LGMVIP-JAVA-TASK-2/blob/main/1.png)
  
  USER MANUAL
 -------------
